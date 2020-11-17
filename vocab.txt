@@ -1,0 +1,13 @@
+dog 4
+my 3
+the 3
+cat 2
+morning 2
+this 2
+I 1
+hates 1
+loves 1
+me 1
+walked 1
+was 1
+with 1
